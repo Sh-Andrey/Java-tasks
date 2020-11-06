@@ -14,7 +14,7 @@ public class Solution {
         
        int num1 = Integer.parseInt(reader.readLine());
        int num2 = Integer.parseInt(reader.readLine());
-       int num3 = Integer.parseInt(reader.readLine());//напишите тут ваш код
+       int num3 = Integer.parseInt(reader.readLine());
         
        int max1 = Math.max(num1, Math.max(num2, num3));
             System.out.print(max1);
